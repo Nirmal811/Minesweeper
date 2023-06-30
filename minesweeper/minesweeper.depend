@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688061081 source:c:\users\nirma\onedrive\desktop\minesweeper\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<cstdlib>
+	<map>
+	<utility>
+	<termios.h>
+	<unistd.h>
+	<conio.h>
+	<ctime>
+
